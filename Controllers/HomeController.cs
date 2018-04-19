@@ -12,7 +12,6 @@ namespace testourband.Controllers
     {
         public IActionResult Index()
         {
-            int a = 5;
             return View();
         }
 
